@@ -11,6 +11,7 @@ Put your password and then you can log in to the cluster
 
 go to /rigel/stats/users/ and make a directory of yours
 ```bash
+cd /rigel/stats/users/
 mkdir YOURUNI
 cd YOURUNI
 ```
